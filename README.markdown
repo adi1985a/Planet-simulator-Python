@@ -26,6 +26,13 @@ _A 3D Earth visualization tool built with Python, PyOpenGL, and Pygame, featurin
 
 **PyGlobe 3D: Interactive Earth Simulator**, developed by Adrian Lesniak, is a Python application that renders an interactive 3D model of the Earth. Built using **PyOpenGL** for 3D graphics rendering and **Pygame** for windowing, event handling, and texture loading (via **Pillow** and **NumPy** for processing), it allows users to explore our planet with multiple texture layers (terrain, political map, detailed terrain). Users can rotate and zoom the globe using mouse controls, switch between textures, and access an in-application menu for information and settings. The simulation aims for a smooth and natural feel with features like auto-rotation and momentum-based rotation.
 
+<br> 
+<p align="center">
+  <img src="screenshots/1.gif" width="90%">
+</p>
+<br>
+
+
 ## ✨ Key Features
 
 *   🌍 **3D Globe Rendering**:
@@ -49,9 +56,12 @@ _A 3D Earth visualization tool built with Python, PyOpenGL, and Pygame, featurin
 
 ## 🖼️ Screenshots (Conceptual)
 
-**Coming soon!**
+_Screenshots of the PyGlobe 3D application: the main view of the rotating Earth with the default texture, examples of the political and detailed textures applied, the menu interface, and demonstrations of zoom and rotation._
 
-_This section would ideally show screenshots of the PyGlobe 3D application: the main view of the rotating Earth with the default texture, examples of the political and detailed textures applied, the menu interface, and demonstrations of zoom and rotation._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements & Dependencies
 
