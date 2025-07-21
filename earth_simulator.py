@@ -1,6 +1,12 @@
 import sys
 import os
 
+# Import naprawy kompatybilności
+try:
+    import compatibility_fix
+except ImportError:
+    print("Ostrzeżenie: Nie znaleziono pliku compatibility_fix.py")
+
 def check_dependencies():
     try:
         import pygame

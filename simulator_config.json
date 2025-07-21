@@ -1,0 +1,15 @@
+{
+  "last_position": {
+    "x": 10.707692307692307,
+    "y": 201.04615384615357,
+    "distance": -5
+  },
+  "texture": "Default",
+  "auto_rotate": false,
+  "mouse_sensitivity": 0.2,
+  "view_mode": "Normal",
+  "animation_enabled": false,
+  "effects_enabled": true,
+  "sound_enabled": true,
+  "atmosphere_enabled": false
+}
